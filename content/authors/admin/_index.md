@@ -29,22 +29,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning in Finance
+  - Sustainable Finance
+  - Agent-Based Modelling
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Economics
+      institution: Univeristy of Amsterda
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Msc in Finance (Quantitative Finance)
+      institution: Università della Svizzera italiana
+      year: 2023
+    - course: BSc in Economics and Finance
+      institution: Università Cattolica del Sacro Cuore
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
