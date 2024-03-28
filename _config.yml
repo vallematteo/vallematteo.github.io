@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Matteo Valle"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Matteo Valle"
 description              : &description "personal description"
 url                      : https://vallematteo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,17 +25,17 @@ author:
   name             : "Matteo Valle"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at the University of Amsterdam"
-  location         : ""
-  employer         : ""
+  location         : 
+  employer         : 
   uri              : "https://vallematteo.github.io" # URL
   email            : "m.valle@uva.nl" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : 
   impactstory      : # URL
-  orcid            : ""
-  pubmed           : ""
+  orcid            : 
+  pubmed           : 
   researchgate     : # URL
 
   # Repositories and software development
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
