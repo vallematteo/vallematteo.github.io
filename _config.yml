@@ -27,7 +27,7 @@ author:
   bio              : "PhD candidate at the University of Amsterdam"
   location         : 
   employer         : 
-  uri              : "https://vallematteo.github.io" # URL
+  uri              : #"https://vallematteo.github.io" # URL
   email            : "m.valle@uva.nl" 
 
   # Academic websites
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "matteovallemv"# Username
+  linkedin         : "matteovallemv" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -202,15 +202,15 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+ # publications:
+ #   output: true
+ #   permalink: /:collection/:path/
+ # portfolio:
+ #   output: true
+ #   permalink: /:collection/:path/
+ # talks:
+ #  output: true
+  #  permalink: /:collection/:path/
 
 
 # Defaults

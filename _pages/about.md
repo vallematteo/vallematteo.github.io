@@ -17,6 +17,6 @@ Education
 * M.Sc. in finance minor in quantitative finance, Università della Svizzera italiana, 2023
 * B.A. in economics and finance, Università Cattolica, 2021
 
-======
+
 ------
-For more information, you can reach me by email at:[m.valle@uva.nl](mailto:m.valle@uva.nl)
+For more information, you can reach me by email at: [m.valle@uva.nl](mailto:m.valle@uva.nl)
