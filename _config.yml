@@ -21,7 +21,7 @@ repository               : "vallematteo/vallematteo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile2.png"
   name             : "Matteo Valle"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at the University of Amsterdam"
