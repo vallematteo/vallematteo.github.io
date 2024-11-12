@@ -6,9 +6,9 @@ title: Matteo Valle
 email: m.valle@uva.nl
 name: Matteo Valle
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here.
+  Matteo Valle's personal website
 keywords: [Your keywords]
-baseurl: '/vallematteo.github.io' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://vallematteo.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 domain: 'example.com' # the domain name for your site, e.g. example.com
 language: en
