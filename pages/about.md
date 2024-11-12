@@ -4,25 +4,27 @@ title: About
 permalink: /about/
 ---
 
-<img src="profile2.png" align="left" width="300" style="margin-right: 15px;"/>
+<img src="/images/profile2.png" align="left" width="300" style="margin-right: 15px;"/>
 
-**Who Am I?**
+<br/>
+
+**Who Am I?** \
 I am PhD Candidate at the University of Amsterdam. I am part of the [Center for Nonlinear Dynamics in Economics and Finance (CeNDEF)](https://cendef.uva.nl/) at the Amsterdam School of Economics and the [Computational Science Lab (CSL)](https://uva.computationalscience.nl/) at Informatics Institute.
 
+<br/>
+<br/>
 
-
-
-
-
-**Research Interests**
+**Research Interests**  
 - Agent-based modeling (ABMs)
 - Sustainable finance
 - Machine learning in finance
 
+<br/>
+
 **Email:** [m.valle@uva.nl](mailto:m.valle@uva.nl)
 
-
-**Connect with me:**
-- [Twitter](https://x.com/mttvalle)
-- [LinkedIn](https://www.linkedin.com/in/matteovallemv)
-- [GitHub](https://github.com/vallematteo)
+<br/>
+**Connect with me:**\
+- <a href="https://x.com/mttvalle" style="color:blue;">Twitter</a>
+- <a href="https://www.linkedin.com/in/matteovallemv" style="color:blue;">LinkedIn</a>
+- <a href="https://github.com/vallematteo" style="color:blue;">GitHub</a>
