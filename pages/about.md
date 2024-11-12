@@ -13,9 +13,13 @@ I am PhD Candidate at the University of Amsterdam. I am part of the [Center for 
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 **Research Interests**  
-- Agent-based modeling (ABMs)
+- Agent-based modeling (ABMs) in ecoomics and finance
 - Sustainable finance
 - Machine learning in finance
 
@@ -24,7 +28,7 @@ I am PhD Candidate at the University of Amsterdam. I am part of the [Center for 
 **Email:** [m.valle@uva.nl](mailto:m.valle@uva.nl)
 
 <br/>
-**Connect with me:**\
+**Connect with me:**
 - <a href="https://x.com/mttvalle" style="color:blue;">Twitter</a>
 - <a href="https://www.linkedin.com/in/matteovallemv" style="color:blue;">LinkedIn</a>
 - <a href="https://github.com/vallematteo" style="color:blue;">GitHub</a>

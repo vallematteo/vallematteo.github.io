@@ -7,7 +7,8 @@
 #- default: menu_category
 #  url: 'categories'
 
-- default: research
+- default: Research
   url: 'research'
 
-
+- default: Teaching
+  url: 'teaching'
