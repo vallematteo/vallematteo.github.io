@@ -17,6 +17,8 @@ I am PhD Candidate at the University of Amsterdam. I am part of the [Center for 
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 **Research Interests**  
 - Agent-based modeling (ABMs) in ecoomics and finance
