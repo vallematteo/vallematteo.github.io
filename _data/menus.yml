@@ -3,8 +3,7 @@
 
 - default: menu_research
   url: 'research'
-  icon: 'info-circle'
+
 
 - default: menu_teaching
   url: 'teaching'
-  icon: 'info-circle'
