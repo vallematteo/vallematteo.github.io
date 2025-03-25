@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+redirect_from: 
+  - /
 ---
 
 <img src="/images/profile2.png" align="left" style="max-width: 100%; height: auto; margin-right: 15px;"/>
