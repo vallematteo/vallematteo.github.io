@@ -29,9 +29,9 @@ I am PhD Candidate at the University of Amsterdam. I am part of the [Center for 
 <br/>
 <br/>
 <br/>
-**Connect with me:**
+**Connect with me:**\
 **Email:** [m.valle@uva.nl](mailto:m.valle@uva.nl)
 - <a href="https://x.com/mttvalle" style="color:blue;">Twitter</a>
 - <a href="https://www.linkedin.com/in/matteovallemv" style="color:blue;">LinkedIn</a>
 - <a href="https://github.com/vallematteo" style="color:blue;">GitHub</a>
-```
+```   

@@ -4,6 +4,5 @@
 - default: menu_research
   url: 'research'
 
-
 - default: menu_teaching
   url: 'teaching'
