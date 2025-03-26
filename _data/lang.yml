@@ -7,7 +7,7 @@ en:
   paginator_previous: 'Previous'
   paginator_pages: 'Page: '
   paginator_next: 'Next'
-  notification_404: 'Page not found :('
+  notification_404: 'Page not found :(('
   post_write_date: 'Written on '
   post_update_date: 'updated at '
   post_categories: 'Categories: '
