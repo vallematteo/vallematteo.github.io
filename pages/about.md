@@ -6,7 +6,7 @@ redirect_from:
   - /
 ---
 
-<img src="assets/images/profile2.png" align="left" style="max-width: 100%; height: auto; margin-right: 15px;"/>
+<img src="assets/images/prova.png" align="left" style="max-width: 100%; height: auto; margin-right: 15px;"/>
 
 <br/>
 
@@ -31,7 +31,7 @@ I am PhD Candidate at the University of Amsterdam. I am part of the [Center for 
 <br/>
 **Connect with me:**
 
-- <a Email: [m.valle@uva.nl](mailto:m.valle@uva.nl)></a>
+- <a> Email: [m.valle@uva.nl](mailto:m.valle@uva.nl)</a>
 - <a href="https://x.com/mttvalle" style="color:blue;">Twitter</a>
 - <a href="https://www.linkedin.com/in/matteovallemv" style="color:blue;">LinkedIn</a>
 - <a href="https://github.com/vallematteo" style="color:blue;">GitHub</a>

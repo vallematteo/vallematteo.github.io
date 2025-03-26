@@ -5,4 +5,7 @@ permalink: /research/
 ---
 
 
-My research interests are 1,2,3....
+My research interests are:
+
+- Agent-based modeling (ABMs) in economics and finance
+- Machine learning in finance
