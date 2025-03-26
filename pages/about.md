@@ -11,7 +11,7 @@ redirect_from:
 <br/>
 
 **About Me** 
-I am PhD Candidate at the University of Amsterdam. I am affiliated to the [**Center for Nonlinear Dynamics in Economics and Finance **(CeNDEF)](https://cendef.uva.nl/) and the [**Computational Science Lab (CSL)**](https://uva.computationalscience.nl/).
+I am PhD Candidate at the University of Amsterdam. I am affiliated to the [**Center for Nonlinear Dynamics in Economics and Finance (CeNDEF)**](https://cendef.uva.nl/) and the [**Computational Science Lab (CSL)**](https://uva.computationalscience.nl/).
 
 My research interest lies at the intersection of economics and finance using simulation models.
 
