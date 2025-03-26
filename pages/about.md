@@ -6,7 +6,7 @@ redirect_from:
   - /
 ---
 
-<img src="{{ site.baseurl }}/assets/images/prova.png" align="left" style="max-width: 100%; height: auto; margin-right: 15px;"/>
+<img src="{{ site.baseurl }}/assets/images/profile2.png" align="left" style="max-width: 100%; height: auto; margin-right: 15px;"/>
 
 <br/>
 
