@@ -6,14 +6,14 @@ redirect_from:
   - /
 ---
 
-<img src="{{ site.baseurl }}/assets/images/profile2.png" align="left" style="max-width: 40%; height: auto; margin-right: 15px;"/>
+<img src="{{ site.baseurl }}/assets/images/profile2.png" align="left" style="max-width: 30%; height: auto; margin-right: 15px;"/>
 
 <br/>
 
-**About Me** \
-I am PhD Candidate at the University of Amsterdam. I am affiliated to the [**Center for Nonlinear Dynamics in Economics and Finance (CeNDEF)**](https://cendef.uva.nl/) and the [**Computational Science Lab (CSL)**](https://uva.computationalscience.nl/).
+**About Me** 
+I am PhD Candidate at the University of Amsterdam. I am affiliated to the [**Center for Nonlinear Dynamics in Economics and Finance **(CeNDEF)](https://cendef.uva.nl/) and the [**Computational Science Lab (CSL)**](https://uva.computationalscience.nl/).
 
-My research lies at the intersection of economics and finance using simulation models.
+My research interest lies at the intersection of economics and finance using simulation models.
 
 <br/>
 <br/>
