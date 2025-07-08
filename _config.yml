@@ -10,7 +10,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 keywords: [Your keywords]
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://vallematteo.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-domain: 'example.com' # the domain name for your site, e.g. example.com
+domain: 'vallematteo.github.io' # the domain name for your site, e.g. example.com
 language: en
 # Supported languages list:
 # en: English
@@ -59,3 +59,17 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+timezone: Europe/Amsterdam
+author:
+  name: Matteo Valle
+  email: m.valle@uva.nl
+
+# Default front matter
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: Matteo Valle
