@@ -1,0 +1,4 @@
+
+tu ron locally:
+from terminal
+bundle exec jekyll serve
