@@ -4,8 +4,8 @@ title: teaching
 permalink: /teaching/
 ---
 
-**Courses taught:**
+**Courses:**
 
-- Mathematics (Universita della Svizzera Italiana, Fall 2022)
-- Probability Theory and Statistics  (Univeristy of Amsterdam Fall 2023)
-- Programming and Numerical Analysis (University of Amsterdam Spring 2025)
+- TA Mathematics 1 (Universita della Svizzera Italiana, Fall 2022)
+- TA Probability Theory and Statistics  (Univeristy of Amsterdam Fall 2023)
+- TA Programming and Numerical Analysis (University of Amsterdam Spring 2025)
