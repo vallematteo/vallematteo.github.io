@@ -9,9 +9,11 @@ title: Matteo Valle
 
 **About Me**
 I am a PhD Candidate in Economics at the University of Amsterdam.
-I am jointly affiliated with the Center for Nonlinear Dynamics in Economics and Finance (CeNDEF)**](https://cendef.uva.nl/) and the [**Computational Science Lab (CSL)**](https://uva.computationalscience.nl/).
-My core research investigates the complex dynamics within economic and financial systems through the development and application of Agent-Based Models and other compuational tools.
-My work aims to develop and apply computational models to better understand the economy as a complex system.
+I am jointly affiliated with the [Amsterdam School of Economics](https://ase.uva.nl/) and the [**Computational Science Lab (CSL)**](https://uva.computationalscience.nl/).
+
+<br/>
+My research investigates the complex dynamics within financial systems through the development and application of Agent-Based Models and other compuational tools.
+I am also interested in the application of Machine Learning in finance.
 
 <br/>
 <br/>
