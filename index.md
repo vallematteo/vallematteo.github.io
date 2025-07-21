@@ -9,7 +9,7 @@ title: Matteo Valle
 
 **About Me:**
 
-I am a PhD Candidate in Economics at the University of Amsterdam.
+I am a PhD Candidate at the University of Amsterdam.
 I am jointly affiliated with the [**Amsterdam School of Economics**](https://ase.uva.nl/) and the [**Computational Science Lab (CSL)**](https://uva.computationalscience.nl/).
 
 <br/>
