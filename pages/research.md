@@ -15,9 +15,10 @@ permalink: /research/
 <br/>
 
 **Environmental regulation risk and asset prices** \
-With H.P. Boswjik, C. Diks, S. Trimborn
+With H.P. Boswjik, C. Diks, S. Trimborn \
+[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6135846#) (JAN 26)
 <br/>
 <br/>
 
 **Flood risk impact on a mortgage agent-based model** \
-With C.Diks, D. Kandhai, D. Roy
+With C. Diks, D. Kandhai, D. Roy

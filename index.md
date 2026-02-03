@@ -13,10 +13,7 @@ I am a PhD Candidate at the University of Amsterdam.
 I am jointly affiliated with the [**Amsterdam School of Economics**](https://ase.uva.nl/) and the [**Computational Science Lab (CSL)**](https://uva.computationalscience.nl/).
 
 <br/>
-My research investigates the dynamics within financial systems through the development and application of Agent-Based Models.
-<br/>
-
-I am also interested in the application of Machine Learning in finance.
+My research spans two main agendas: investigating the dynamics within financial systems through Agent-Based Models, and exploring the application of Machine Learning in finance.
 
 <br/>
 <br/>
