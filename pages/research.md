@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 - Agent-based modeling (ABMs) in economics and finance
-- Financial Econometrics
+- Financial Econometrics and Machine Learning in finance
 
 
 <br/>
