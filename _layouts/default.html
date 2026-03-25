@@ -7,15 +7,17 @@
   </head>
   <body>
     <div class="container-wrapper">
-      <header class="container-header">
+      <aside class="container-sidebar">
         {% include header.html %}
-      </header>
-      <main class="container-main">
-        {{ content }}
-      </main>
-      <footer class="container-footer">
-        {% include footer.html %}
-      </footer>
+      </aside>
+      <div class="container-body">
+        <main class="container-main">
+          {{ content }}
+        </main>
+        <footer class="container-footer">
+          {% include footer.html %}
+        </footer>
+      </div>
     </div>
   </body>
 </html>

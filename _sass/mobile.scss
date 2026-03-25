@@ -7,6 +7,31 @@
     max-width: 300px;
   }
 
+  /* Sidebar: stack vertically on mobile */
+  .container-wrapper {
+    flex-direction: column;
+  }
+
+  .container-sidebar {
+    width: 100%;
+    border-right: none;
+    border-bottom: solid 1px #ddd;
+    padding: 20px 0 15px 0;
+  }
+
+  .container-main {
+    padding: 20px 0;
+  }
+
+  .container-footer {
+    padding: 10px 0;
+  }
+
+  .header-main-nav-item {
+    display: inline-block;
+    margin-right: 12px;
+  }
+
   /* Posts list */
   .list-pagination {
     margin: 10px 0 5px 0;
