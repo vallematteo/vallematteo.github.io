@@ -1,5 +1,19 @@
 @charset "utf-8";
 
+/* External links: show [text] with no underline */
+.container-main a[href^="http"],
+.container-main a[href^="https"] {
+  text-decoration: none;
+  &::before { content: "["; }
+  &::after  { content: "]"; }
+}
+
+/* Remove underline from <u> wrappers around external links */
+.container-main u:has(a[href^="http"]),
+.container-main u:has(a[href^="https"]) {
+  text-decoration: none;
+}
+
 .page-title {
   text-align: center;
 }
