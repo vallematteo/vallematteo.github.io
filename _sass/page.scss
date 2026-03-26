@@ -1,16 +1,13 @@
 @charset "utf-8";
 
-/* External links: show [text] with no underline */
-.container-main a[href^="http"],
-.container-main a[href^="https"] {
+/* Working paper links (wrapped in <u>): show [text] with no underline */
+.container-main u > a {
   text-decoration: none;
   &::before { content: "["; }
   &::after  { content: "]"; }
 }
 
-/* Remove underline from <u> wrappers around external links */
-.container-main u:has(a[href^="http"]),
-.container-main u:has(a[href^="https"]) {
+.container-main u:has(a) {
   text-decoration: none;
 }
 
