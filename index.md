@@ -18,7 +18,7 @@ title: Matteo Valle
 <br/>
 **News:**
 
-- **Jan 2026:** — <span style="color:red;">New:</span> Environmental Regulation Risk and Asset Prices <u><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6135846#" target="_blank" rel="noopener noreferrer">Working Paper </a></u> (with H.P. Boswijk, C. Diks, S. Trimborn)
+- **Jan 2026:** — <span style="color:red;">New:</span> Environmental regulatory risk <u><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6135846#" target="_blank" rel="noopener noreferrer">Working Paper </a></u> (with H.P. Boswijk, C. Diks, S. Trimborn)
 
 <br/>
 <div style="display:flex; gap:1.2rem; align-items:center; margin-top:0.5rem;">
