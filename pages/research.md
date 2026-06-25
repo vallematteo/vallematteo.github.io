@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Research Interests
+title: Research 
 permalink: /research/
 ---
 
 
-<h1 style="text-align: center;">Current Projects</h1>
-<br/>
+
 
 **Environmental regulatory risk** <u><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6135846#" target="_blank" rel="noopener noreferrer">Working Paper January 2026</a></u>  \
 With H.P. Boswijk, C. Diks, S. Trimborn 
