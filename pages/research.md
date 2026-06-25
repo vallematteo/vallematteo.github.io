@@ -4,12 +4,6 @@ title: Research Interests
 permalink: /research/
 ---
 
-- Agent-based modeling (ABMs) in economics and finance
-- Financial Econometrics and Machine Learning in finance
-
-
-<br/>
-<br/>
 
 <h1 style="text-align: center;">Current Projects</h1>
 <br/>

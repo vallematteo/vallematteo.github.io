@@ -18,8 +18,13 @@ title: Matteo Valle
 <br/>
 **News:**
 
-- **Jan 2026:** — <span style="color:red;">New:</span> Environmental regulatory risk <u><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6135846#" target="_blank" rel="noopener noreferrer">Working Paper </a></u> (with H.P. Boswijk, C. Diks, S. Trimborn)
+- **Jan 2026:** — <span style="color:red;">New Working Paper:</span> Environmental regulatory risk <u><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6135846#" target="_blank" rel="noopener noreferrer">LINK</a></u> (with H.P. Boswijk, C. Diks, S. Trimborn)
+- **Jul 2026:** — Attending the <u><a href="https://www.maths.ox.ac.uk/events/summer-schools/economic-networks" target="_blank" rel="noopener noreferrer">Oxford Summer School on Economic Networks (OSSEN)</a></u>
+- **Jun 2026:** — Presenting at the <u><a href="https://comp-econ.com/32nd-cef-conference/" target="_blank" rel="noopener noreferrer">32nd CEF Conference</a></u> in Venice
+- **Jun 2026:** — <span style="color:red;">New:</span> Environmental regulatory risk <u><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6135846#" target="_blank" rel="noopener noreferrer">Working Paper</a></u> (with H.P. Boswijk, C. Diks, S. Trimborn)
 
+<br/>
+<br/>
 <br/>
 <div style="display:flex; gap:1.2rem; align-items:center; margin-top:0.5rem;">
   <a href="mailto:m.valle@uva.nl" title="Email" style="color:#333; font-size:1.8rem;"><i class="fa-solid fa-envelope"></i></a>
