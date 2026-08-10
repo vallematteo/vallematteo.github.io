@@ -9,7 +9,7 @@ title: Matteo Valle
     <strong>About Me: </strong>
     <br/>
     <br/>
-    <p>I am a PhD Candidate at the **University of Amsterdam**, jointly affiliated with the <a href="https://ase.uva.nl/"><strong>Amsterdam School of Economics</strong></a> and the <a href="https://uva.computationalscience.nl/"><strong>Computational Science Lab (CSL)</strong></a>.</p>
+    <p>I am a PhD Candidate at the <strong>University of Amsterdam</strong>, jointly affiliated with the <a href="https://ase.uva.nl/"><strong>Amsterdam School of Economics</strong></a> and the <a href="https://uva.computationalscience.nl/"><strong>Computational Science Lab (CSL)</strong></a>.</p>
     <br/>
     <br/>
     <p>My research focus on Agent-Based Models and Financial Econometrics.</p>
