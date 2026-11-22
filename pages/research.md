@@ -17,9 +17,9 @@ With H.P. Boswijk, C. Diks, S. Trimborn
 <br/>
 <br/>
 
-**Modeling the Impact of Flood Risk on Residential Mortgage Default with an Agent-Based Model** \
-With C. Diks, D. Kandhai, D. Roy
+**Neighbourhood flood damage amplifies mortgage default cascades** <u><a href="https://drive.google.com/file/d/1nOW_IH5bTXwknyIcyBc1LMt4pVELv3hr/view?usp=sharing" target="_blank" rel="noopener noreferrer"><em>Working paper</em></a></u>  \
+With D. Kandhai, C. Diks, D. Roy
 
 <details style="margin-top: 8px;"><summary style="cursor: pointer; font-size: 0.9em; color: #555;">Abstract</summary>
-<p style="font-size: 0.9em; line-height: 1.5; color: #555; margin-top: 8px;"> Floods can damage homes, disrupt income and reduce households' willingness to keep paying for a home in a damaged neighbourhood. We study these effects with a spatial agent-based model of mortgages in Limburg, the Netherlands. In the most severe flood setting, the annual foreclosure rate rises from 1.32% to 2.43% at baseline parameter values. Foreclosures among households that can still pay account for almost all of this increase. Strategic defaulters become more persistent over time, primarily because of neighbourhood damage. The results suggest that mortgage risk assessments should consider surrounding damage alongside direct exposure and affordability.</p>
+<p style="font-size: 0.9em; line-height: 1.5; color: #555; margin-top: 8px;"> Floods threaten mortgage repayment by damaging homes, disrupting incomes, and worsening conditions in surrounding neighbourhoods. However, it remains unclear how these neighbourhood effects turn local damage into systemic mortgage distress, as Europe’s housing crisis leaves households that lose their homes with few affordable alternatives. Using an agent-based model calibrated to Limburg, the Netherlands, we show that damage to surrounding properties can trigger mortgage defaults among households that can still afford to pay, including those whose own homes remain undamaged. In the most severe flood scenario, the annual foreclosure rate more than doubles. As each foreclosure lowers the value of nearby homes, it triggers a cascade. Floods make such large foreclosure cascades more frequent, with the share of foreclosures that belong to these cascades rising from 31% to 45%. They also shift foreclosures towards younger mortgages, when more debt is still outstanding. These findings show how neighbourhood damage extends mortgage risk beyond directly flooded homes and causes foreclosures to arrive in concentrated waves earlier in repayment.</p>
 </details>
