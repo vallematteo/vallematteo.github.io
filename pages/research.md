@@ -17,7 +17,7 @@ With H.P. Boswijk, C. Diks, S. Trimborn
 <br/>
 <br/>
 
-**Neighbourhood flood damage amplifies mortgage default cascades** <u><a href="https://drive.google.com/file/d/1nOW_IH5bTXwknyIcyBc1LMt4pVELv3hr/view?usp=sharing" target="_blank" rel="noopener noreferrer"><em>Working paper</em></a></u>  \
+**Neighbourhood flood damage amplifies mortgage default cascades** <u><a href="https://arxiv.org/abs/2611.29652" target="_blank" rel="noopener noreferrer"><em>arXiv</em></a></u>  \
 With D. Kandhai, C. Diks, D. Roy
 
 <details style="margin-top: 8px;"><summary style="cursor: pointer; font-size: 0.9em; color: #555;">Abstract</summary>
