@@ -7,7 +7,7 @@ permalink: /research/
 
 
 
-**Environmental regulatory risk** <u><a href="https://doi.org/10.1016/j.eneco.2026.109625" target="_blank" rel="noopener noreferrer"><em>Energy Economics</em>, 2026</a></u>  \
+**Environmental regulatory risk** <u style="color: #1a5fb4;"><a href="https://doi.org/10.1016/j.eneco.2026.109625" target="_blank" rel="noopener noreferrer" style="color: #1a5fb4;"><em>Energy Economics</em>, 2026</a></u>  \
 With H.P. Boswijk, C. Diks, S. Trimborn 
 
 <details style="margin-top: 8px;"><summary style="cursor: pointer; font-size: 0.9em; color: #555;">Abstract</summary>
@@ -17,7 +17,7 @@ With H.P. Boswijk, C. Diks, S. Trimborn
 <br/>
 <br/>
 
-**Neighbourhood flood damage amplifies mortgage default cascades** <u><a href="https://arxiv.org/abs/2611.29652" target="_blank" rel="noopener noreferrer"><em>arXiv</em></a></u>  \
+**Neighbourhood flood damage amplifies mortgage default cascades** <u style="color: #1a5fb4;"><a href="https://arxiv.org/abs/2611.29652" target="_blank" rel="noopener noreferrer" style="color: #1a5fb4;"><em>arXiv</em></a></u>  \
 With D. Kandhai, C. Diks, D. Roy
 
 <details style="margin-top: 8px;"><summary style="cursor: pointer; font-size: 0.9em; color: #555;">Abstract</summary>
